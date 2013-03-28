@@ -19,7 +19,9 @@
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3",
     "hubot-irc": ">= 0.1.x",
-    "gitio": "~1.0.1"
+    "gitio": "~1.0.1",
+    "url": "~0.7.9",
+    "querystring": "~0.2.0"
   },
   "engines": {
     "node": "0.8.x",
